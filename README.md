@@ -1,1 +1,1 @@
-# temp
+Datasety pro předmět ZSU.
